@@ -31,6 +31,7 @@ INSERT INTO employees VALUES
 (104, 'Ayesha', 8000, 3, 40),
 (105, 'Mark', 4500, 1, 25);
 
+-- Querying the tables
 SELECT * from departments;
 SELECT * from employees;
 
@@ -60,7 +61,6 @@ ORDER BY salary DESC;
 SELECT * 
 FROM employees
 ORDER BY age ASC;
-
 
 
 
