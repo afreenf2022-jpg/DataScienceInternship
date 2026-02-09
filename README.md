@@ -9,18 +9,28 @@ It reflects my learning journey across Advanced Python, Data Science, Machine Le
 During this internship, I am gaining practical experience in-
 
 Advanced Python for Data Science
+
 Data Analysis & Data Preprocessing
+
 Feature Engineering
+
 Statistical concepts for Data Science
+
 Machine Learning algorithms (Supervised & Unsupervised Learning)
+
 Big Data & Text Analytics
+
 Data Visualization techniques
 
-🚀Purpose of This Repository-
 
+🚀Purpose of This Repository-
 This repository serves as:
+
 A learning log of my Data Science journey.
+
 A portfolio showcasing my practical skills.
+
 A reference for future projects and improvements.
+
 
 ⭐Feel free to explore the repository and review the implementations!
